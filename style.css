@@ -212,6 +212,9 @@ h3{
     .nav-bar {
     display: none;
   }
+   .herosection {
+        flex-direction: column;
+    }
 
     .left, .right {
         width: 100%;
